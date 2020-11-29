@@ -29,7 +29,7 @@ cd HOgit
 Editamos el archivo de README y hacemos un nuevo commit
 
 ```
-vi README.md
+vi README.md (EL ARCHIVO SE EDITÓ POR FUERA DE LA CONSOLA, AÑADIENDO ESTE TEXTO DESDE GEDIT"
 .........
 git add README.md
 git commit
