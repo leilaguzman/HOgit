@@ -50,9 +50,9 @@ git checkout charlas
 en esta branch, editamos README.md de nuevp
 
 ```
-vi README.md
+vi README.md (EL ARCHIVO SE VOLVIÓ A MODIFICAR EXTERNAMENTE DESDE GEDIT, SOLO QUE AHORA ESTOY PARADA EN LA RAMA "CHARLAS"
 ...
-git add README.md
+git add README.md 
 git commit
 ```
 
